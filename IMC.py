@@ -1,5 +1,4 @@
 # IMC simplificado
-
 nome = ''
 altura = 0.
 peso = 0
